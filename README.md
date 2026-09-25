@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hasara Sesadi 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | Software Engineer</h3>
+<h3 align="center">🚀 Full-Stack Developer | Software Engineer | Lecturer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&width=700&lines=Welcome+to+My+GitHub+Profile!;MERN+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+and+Innovating!;" alt="Typing SVG" />
